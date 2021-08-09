@@ -1,4 +1,4 @@
-# The-coin-game
+# "Which Hand" Game
 
 ## Description
 
