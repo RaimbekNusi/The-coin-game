@@ -1,4 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
 player1Wins = 0
 player2Wins = 0
 n = 1
