@@ -10,7 +10,7 @@ While-loops work a lot like an if-statement in that they have very similar synta
 
 ## Problem description
 
-"Which hand" is a simple game of chance played by 2 people. The game is played in rounds, and the player who wins 3 rounds first wins the game. In each round, one player hides a coin in their palm and asks the other player to guess the correct hand (left or right hand). Then the other player makes a guess and if they get it right, they win a round. If they get it wrong, the other player wins the round. In this version of the game, player 1 always hides the coin and player 2 guesses it. For this question, write a program which does the following: 
+"Which hand" is a simple game of chance played by 2 people. The game is played in rounds, and the player who wins 3 rounds first wins the game. In each round, one player hides a coin in their palm and asks the other player to guess the correct hand (left or right hand). Then the other player makes a guess and if they get it right, they win a round. If they get it wrong, the other player wins the round. In this version of the game, player 1 always hides the coin and player 2 guesses it.
 
 - Prompt the first player to enter the hand where they want to hide the coin. The player must input "l" for left, or "r" for right in the console.
 - Prompt the second player to guess the hand where the coin is hidden. Just like the previous player, player 2 must input "l" for left, or "r" for right in the console.
