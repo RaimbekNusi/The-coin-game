@@ -17,3 +17,12 @@ While-loops work a lot like an if-statement in that they have very similar synta
 - The console will ask for inputs until the players enters the correct one ("l" or "r").
 - Print the player who wins the round.
 - Print the player who wins 3 rounds first
+
+## How to use
+
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Projec_list_of_names.py;
+- The program will open a command console which will show the main menu of the program and ask you to input any of the comands.
