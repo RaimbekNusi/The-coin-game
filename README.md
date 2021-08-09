@@ -24,5 +24,5 @@ Here are the steps for how to open, use and utilize the program:
 
 - First, download all of the files listed above;
 - Put all the files in one folder;
-- Open the file Projec_list_of_names.py;
-- The program will open a command console which will show the main menu of the program and ask you to input any of the comands.
+- Open the file Projec_which_hand.py;
+- The program will open a command console which will ask you to input l (for left) or r (for right).
